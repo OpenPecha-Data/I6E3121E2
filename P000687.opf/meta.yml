@@ -4,4 +4,44 @@ source_metadata:
   id: bdr:W8684
   title: གསུང་འབུམ། ཤཱཀྱ་རིན་ཆེན
   author: ''
-  volumes: ''
+  volumes:
+    3ed6301a5a884ba0b90ca9740cad5716:
+      image_group_id: I4365
+      title: ''
+      volume_number: 1
+      total_pages: 612
+    27db2405acd847aa82a1b0413c8cf922:
+      image_group_id: I4366
+      title: ''
+      volume_number: 2
+      total_pages: 836
+    c73258665d2b4b7fbd958b603f7fef80:
+      image_group_id: I4367
+      title: ''
+      volume_number: 3
+      total_pages: 654
+    7659b59d600846a88958472f5606c78a:
+      image_group_id: I4368
+      title: ''
+      volume_number: 4
+      total_pages: 478
+    0138c1f28d4248b18fdfd52ff396b67c:
+      image_group_id: I4369
+      title: ''
+      volume_number: 5
+      total_pages: 590
+    1718e3b9cdca47e4b4e6a983a44f9a54:
+      image_group_id: I4370
+      title: ''
+      volume_number: 6
+      total_pages: 544
+    908d0753cd7b4b219163c0fca72e788d:
+      image_group_id: I4371
+      title: ''
+      volume_number: 7
+      total_pages: 660
+    b794047d52cd440c850ced4042506146:
+      image_group_id: I4372
+      title: ''
+      volume_number: 8
+      total_pages: 514
